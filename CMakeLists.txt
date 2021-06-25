@@ -15,7 +15,7 @@ project(CPP_BOILERPLATE VERSION 1.2.3.4 LANGUAGES CXX)
 
 # Options: Things you can set via commandline options to cmake (e.g. -DENABLE_LTO=[ON|OFF])
 option(ENABLE_WARNINGS_SETTINGS "Allow target_set_warnings to add flags and defines.
-                                 Set this to OFF if you want to provide your own warning parameters." ON)
+                                 Set this to OFF if you want to provide your own warning parameters." OFF)
 option(ENABLE_LTO "Enable link time optimization" ON)
 option(ENABLE_DOCTESTS "Include tests in the library. Setting this to OFF will remove all doctest related code.
                         Tests in tests/*.cpp will still be enabled." ON)
@@ -39,7 +39,13 @@ find_lto(CXX)
 # --------------------------------------------------------------------------------
 set(SOURCES          # All .cpp files in src/
     src/example.cpp
+    src/lacze_do_gnuplota.cpp
+        include/vector3d.h include/matrix3d.h src/vector3d.cpp src/matrix3d.cpp include/obiekt_sceny.h src/obiekt_sceny.cpp include/przeszkoda1.h include/przeszkoda2.h include/przeszkoda3.h src/przeszkoda1.cpp src/przeszkoda2.cpp src/przeszkoda3.cpp include/scena.h src/scena.cpp src/cuboid.cpp src/graniastoslup.cpp src/droniarz.cpp)
+set(INCLUDES
+    inc/cuboid.hh
+    inc/graniastoslup.hh
 )
+
 set(TESTFILES        # All .cpp files in tests/
     tests/main.cpp
 )
@@ -58,8 +64,7 @@ target_include_directories(${LIBRARY_NAME} PUBLIC ${PROJECT_SOURCE_DIR}/include)
 target_link_libraries(${LIBRARY_NAME} PUBLIC doctest)
 
 # Set the compile options you want (change as needed).
-target_set_warnings(${LIBRARY_NAME} ENABLE ALL AS_ERROR ALL DISABLE Annoying)
-# target_compile_options(${LIBRARY_NAME} ... )  # For setting manually.
+
 
 # Add an executable for the file app/main.cpp.
 # If you add more executables, copy these lines accordingly.

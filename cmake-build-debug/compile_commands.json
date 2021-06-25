@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/example.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/example.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/example.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/lacze_do_gnuplota.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/lacze_do_gnuplota.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/vector3d.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/vector3d.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/vector3d.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/matrix3d.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/matrix3d.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/matrix3d.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/obiekt_sceny.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/obiekt_sceny.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/obiekt_sceny.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/przeszkoda1.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/przeszkoda1.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/przeszkoda1.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/przeszkoda2.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/przeszkoda2.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/przeszkoda2.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/przeszkoda3.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/przeszkoda3.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/przeszkoda3.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/scena.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/scena.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/scena.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/cuboid.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/cuboid.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/cuboid.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/graniastoslup.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/graniastoslup.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/graniastoslup.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -std=c++17 -o CMakeFiles/engine.dir/src/droniarz.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/src/droniarz.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/src/droniarz.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/app/main.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/app/main.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug/tests",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/tests/main.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/tests/main.cpp"
+},
+{
+  "directory": "/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug/tests",
+  "command": "/usr/bin/c++ -DENABLE_DOCTEST_IN_LIBRARY -I/home/michal/zad5_1-michalpiaskowski15/cmake-build-debug -I/home/michal/zad5_1-michalpiaskowski15/include -I/home/michal/zad5_1-michalpiaskowski15/external/doctest/doctest -g -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/dummy.cpp.o -c /home/michal/zad5_1-michalpiaskowski15/tests/dummy.cpp",
+  "file": "/home/michal/zad5_1-michalpiaskowski15/tests/dummy.cpp"
+}
+]
